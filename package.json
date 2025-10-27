@@ -8,9 +8,7 @@
   ],
   "scripts": {
     "build": "echo 'dist already built'",
-    "prepare": "echo 'dist already built'",
-    "patch": "npm version patch",
-    "publish": "npm publish"
+    "prepare": "echo 'dist already built'"
   },
   "dependencies": {
     "cross-fetch": "^4.1.0",
